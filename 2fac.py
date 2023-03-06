@@ -1,2 +1,2 @@
-import 2Facto
+import twofac
 
